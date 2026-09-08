@@ -382,8 +382,4 @@ Demandez au joueur une courte phrase de présentation et affichez-la entre guill
 
 Un programme interactif peut récupérer des valeurs avec `Scanner`, les conserver dans des variables, les utiliser dans des calculs et construire un affichage personnalisé. Le choix du type de chaque variable est important : `String` convient au texte et `int` aux nombres entiers. Après `nextInt()`, le retour à la ligne restant doit être traité avant un nouvel appel à `nextLine()`.
 
-## 13. Message de commit
 
-```text
-Exercice 1 : ajouter l'énoncé de la création d'un profil de joueur
-```
